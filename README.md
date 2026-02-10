@@ -1,25 +1,28 @@
-<h1 align="center">✨ Hi, I'm Anushka Tandon  </h1>
+<h1 align="center">✨ Hi, I'm Anushka Tandon </h1>
 
 <p align="center">
-🚀 Computer Science Student | Full Stack Learner | Tech Explorer
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Developer;Tech+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnushkaTandon26&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
+<img src="https://komarev.com/ghpvc/?username=AnushkaTandon26&label=Profile%20Views&color=blueviolet&style=flat" />
+
+<img src="https://img.shields.io/github/followers/AnushkaTandon26?label=Followers&style=flat&color=green" />
+
+</p>
 ---
 
 ##  About Me
 
-- 🎓 CS Student at Symbiosis Institute of Technology
-- 💡 Passionate about building real-world projects
-- 🌱 Currently learning Java, Python, SQL, Web Development
-- ⚡ Always exploring new technologies
+✨ Passionate Computer Science student at Symbiosis Institute of Technology  
+🚀 Exploring Full Stack Development & AI  
+💡 Love building real-world tech solutions  
+🔥 Always curious about new technologies  
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,nodejs,html,css,mysql,git,github,vscode" />
@@ -27,23 +30,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnushkaTandon26&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnushkaTandon26&show_icons=true&theme=tokyonight&bg_color=0d1117&border_radius=15" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaTandon26&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaTandon26&theme=tokyonight&border_radius=15" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaTandon26&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaTandon26&layout=compact&theme=tokyonight&border_radius=15" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -59,11 +62,17 @@
 
 ---
 
-## ⚡ Fun Fact
+##  Contribution Snake Animation
 
-✨ I enjoy learning new technologies and building creative projects.
+<p align="center">
+<img src="https://github.com/AnushkaTandon26/AnushkaTandon26/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
+
+## ⚡ Fun Fact
+
+✨ I enjoy building creative projects and continuously upgrading my skills.
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
