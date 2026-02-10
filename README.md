@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/followers/AnushkaTandon26?label=Followers&style=flat&color=green" />
 
 </p>
-##  About Me
+About Me
 
 ✨ Passionate Computer Science student at Symbiosis Institute of Technology  
 🚀 Exploring Full Stack Development & AI  
