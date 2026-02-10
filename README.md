@@ -10,7 +10,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 - 🎓 CS Student at Symbiosis Institute of Technology
 - 💡 Passionate about building real-world projects
