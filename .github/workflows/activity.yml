@@ -2,14 +2,16 @@ name: Update README with activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: JamesIves/github-activity-readme@v0.1.5
+
+      - name: Update README
+        uses: JamesIves/github-activity-readme@v0.1.5
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
