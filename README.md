@@ -74,6 +74,6 @@
 
 ✨ I enjoy building creative projects and continuously upgrading my skills.
 
-<p align="center">
+<p align="left">
 ⭐ Thanks for visiting my profile ⭐
 </p>
