@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/github/followers/AnushkaTandon26?label=Followers&style=flat&color=green" />
 
 </p>
----
-
 ##  About Me
 
 ✨ Passionate Computer Science student at Symbiosis Institute of Technology  
@@ -24,7 +22,7 @@
 
 ## Languages & Tools
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,nodejs,html,css,mysql,git,github,vscode" />
 </p>
 
@@ -48,21 +46,21 @@
 
 ## Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/anushka-tandon-797095313/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/anushkatandon38">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=Hackerrank" />
 </a>
 
 </p>
 
 ---
 
-##  Contribution Snake Animation
+##  Contribution
 
 <p align="center">
 <img src="https://github.com/AnushkaTandon26/AnushkaTandon26/blob/output/github-contribution-grid-snake.svg" />
