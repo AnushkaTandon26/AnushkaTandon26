@@ -41,7 +41,7 @@ Github Stats
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaTandon26&theme=tokyo-night"/>
 </p>
 
- Live Coding Activity
+
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -57,7 +57,7 @@ Github Stats
 <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=Hackerrank"/>
 </a>
 </p>
-Ultra Contribution
+Contribution
 
 <p align="left">
 <img src="https://github.com/AnushkaTandon26/AnushkaTandon26/blob/output/github-contribution-grid-snake.svg"/>
